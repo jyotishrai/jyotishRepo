@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "873058617892",
+    "firebase_url": "https://brfooddelivery-cedad.firebaseio.com",
+    "project_id": "brfooddelivery-cedad",
+    "storage_bucket": "brfooddelivery-cedad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:4bce1077921335f75ba6b1",
+        "android_client_info": {
+          "package_name": "com.brfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:da9e09f0898c2afa",
+        "android_client_info": {
+          "package_name": "com.brfooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:824bdb33f7717a155ba6b1",
+        "android_client_info": {
+          "package_name": "com.brfoodgrocery.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:e6bca8660e078ebd5ba6b1",
+        "android_client_info": {
+          "package_name": "com.brfoodgrocery.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:a88e55ac6e65aa075ba6b1",
+        "android_client_info": {
+          "package_name": "com.brfoodgrocery.vendergrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873058617892:android:20a50404084bd3855ba6b1",
+        "android_client_info": {
+          "package_name": "com.brfoodgrocery.venderresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJNemMsnpVVVN6CTXzWFQU8zhZLcPKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873058617892-i49318k9vbclp22us49g0sg2dus0cdj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873058617892-fs35mgigjdmv152sh79urjpdbaud9uun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.br.BrFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
